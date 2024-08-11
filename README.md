@@ -8,3 +8,4 @@ git clone https://github.com/cedro3/mediapipe.git
 cd mediapipe/
 ```
 
+Given that a ROS environment is available, here are potential roles for the Spresense device carried by the rescuer:
